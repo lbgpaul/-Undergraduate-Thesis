@@ -6,9 +6,9 @@ Creater: Vincent Huang, Paul Lu, H.Y. Chen, Z.Y. Huang.
 Developed platform: Unity, Maya
 Launched platform: Steam.
 
-Intro Video: Youtube "Slime Kingdom - Intro":  https://www.youtube.com/watch?v=oB9Jehshzfo
+Intro Video: Youtube ["Slime Kingdom - Intro"](https://www.youtube.com/watch?v=oB9Jehshzfo)
 
-Steam page: https://store.steampowered.com/app/866960/Slime_Kingdom/
+[Steam page](https://store.steampowered.com/app/866960/Slime_Kingdom/)
 
 <img src="images/slime.png" width = "500" >
 
@@ -19,4 +19,4 @@ To finished this project, we took Unity course, Maya course, and app develope co
 
 We did meet some obstacles, we did struggle in lacking of idea, we did confused, and we did have some argument during the project.
 
-But all that made this game has the best as we could at that time.
+But all that made this game has **the best** as we could at that time.
