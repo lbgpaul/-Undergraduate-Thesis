@@ -7,6 +7,7 @@ Developed platform: Unity, Maya
 Launched platform: Steam.
 
 Intro Video: Youtube "Slime Kingdom - Intro":  https://www.youtube.com/watch?v=oB9Jehshzfo
+
 Steam page: https://store.steampowered.com/app/866960/Slime_Kingdom/
 
 <img src="images/slime.png" width = "500" >
