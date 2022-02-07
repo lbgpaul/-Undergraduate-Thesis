@@ -1,4 +1,4 @@
-# Undergraduate_unity_design
+# Undergraduate_unity_Game_design
 This is a Unity PC game made by undergraduate students in NCUE Taiwan
 
 Creater: Vincent Huang, Paul Lu, H.Y. Chen, Z.Y. Huang.
